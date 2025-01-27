@@ -44,7 +44,7 @@ CREATE TABLE `admins` (
 --
 
 INSERT INTO `admins` (`id`, `lastname`, `firstname`, `email`, `password`, `is_super`, `remember_token`, `created_at`, `updated_at`) VALUES
-(2, 'Enulebu', 'Favor', 'bello@gmail.com', '$2y$10$Ty8fAyHbDPvKSyZY3djfF.28W4xlGIxAHc8j03giOgHYPF0bKgyNm', 1, NULL, '2020-04-27 12:44:14', '2020-04-27 12:47:35');
+(2, 'Enulebu', 'Favor', 'admin@gmail.com', '$2y$10$bNufIImo6OuJdW66SodufeP8H6NLNs0IP.K4IalBBI4gcGaiqa0le', 1, NULL, '2020-04-27 12:44:14', '2020-04-27 12:47:35');
 
 -- --------------------------------------------------------
 
